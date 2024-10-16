@@ -1,5 +1,5 @@
 # stepik-id-printer
-https://github.com/Bekbolat1606/TechOrda/blob/main/git/4%20branch/jusan-logo.png
+![Jusan logo](https://github.com/Bekbolat1606/TechOrda/blob/main/git/4%20branch/jusan-logo.png)
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`.
 
 ## Возможности
