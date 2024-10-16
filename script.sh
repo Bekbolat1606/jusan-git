@@ -1,2 +1,2 @@
 #!/bin/bash
-Vash ID na stepik.org:982905708
+echo "My Stepik ID is: 982905708"
